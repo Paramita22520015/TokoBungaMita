@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IntentApps</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity Untuk result</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data diterima</string>
+    <string name="object_received">Object diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_color">Pilih Warna yang Kamu Suka</string>
+    <string name="_blue">BIRU</string>
+    <string name="_red">MERAH</string>
+    <string name="_yellow">KUNING</string>
+
+    <string name="login_activity">Login Activity</string>
+    <string name="move_with_data_florist">Tentang Aplikasi Florist</string>
+
+    <string name="paket1">Paket Bunga 1</string>
+    <string name="paket2">Paket Bunga 2</string>
+    <string name="paket3">Paket Bunga 3</string>
+    <string name="paket4">Paket Bunga 4</string>
+    <string name="paket5">Paket Bunga 5</string>
+
+    <string name="detail_florist">Klik Untuk Detail</string>
+
+</resources>
